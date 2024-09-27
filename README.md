@@ -66,6 +66,7 @@ d) Investigate Digital Platforms
 In light of the shift in consumer behaviour towards online platforms, we should allocate a small portion of our marketing budget to digital advertising, such as Google Ads or social media. This can function as a test to evaluate its efficacy compared to traditional media and may offer a more cost-effective, contemporary alternative to channels such as newspapers.
 
 6. Conclusion
+   
 In summary, the information obtained from this analysis has provided a clear understanding of optimising our marketing expenditures. Radio is a channel worth increasing investment in, as it offers a strong relationship with sales at reduced costs, while TV remains a strong channel but comes with high costs. The trends over time for TV and Radio ads seem robust, with TV showing consistent results during high-spend periods, but Radio emerging as a highly cost-effective option. Conversely, the budget for newspaper advertisements should be reduced due to their inadequate effectiveness.
 By strategically reallocating our resources and testing new channels, we can optimise our sales and more effectively support Unity Home’s overall sales objectives.
 
